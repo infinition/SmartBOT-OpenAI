@@ -4,6 +4,7 @@ Simple program that queries the openAI API, in the form of a chatbot that writes
 Required python modules are :  tkinter  openai pyttsx3  textwrap
 
 OpenAI link to get your api key = https://beta.openai.com/
+# Smart
 Paste the key in the dedicated field in the GUI.
 
 
